@@ -1,0 +1,19 @@
+{
+    "name": "test1641/contact",
+    "description": "contact information",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "heer dholakia",
+            "email": "heer.d@yudiz.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+     "autoload": {
+        "psr-4": {
+            "test1641\\Contact\\": "src/"
+        }
+    }
+}
